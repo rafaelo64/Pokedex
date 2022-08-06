@@ -1,18 +1,18 @@
-.cartao-pokemon {
+.cartao-pokemon{
     display: none;
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
     border-radius: 10px;
 }
 
-.cartao-pokemon .cartao-topo {
+.cartao-pokemon .cartao-topo{
     padding: 30px 40px 0;
 }
 
-.cartao-pokemon .nome {
+.cartao-pokemon .nome{
     margin-bottom: 5px;
 }
 
-.cartao-pokemon .tipo {
+.cartao-pokemon .tipo{
     font-size: 12px;
     background-color: #FFFFFF;
     opacity: 0.7;
@@ -21,22 +21,21 @@
     box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
-.cartao-pokemon .detalhes {
+.cartao-pokemon .detalhes{
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
-.cartao-pokemon .cartao-imagem {
+.cartao-pokemon .cartao-imagem{
     width: 350px;
     height: 350px;
 }
-
-.cartao-pokemon img {
+.cartao-pokemon img{
     max-height: 100%;
 }
 
-.cartao-pokemon .cartao-informacoes {
+.cartao-pokemon .cartao-informacoes{
     display: flex;
     justify-content: space-between;
     background-color: #FFFFFF;
@@ -46,82 +45,80 @@
     border-bottom-right-radius: 8px;
 }
 
-.cartao-pokemon .cartao-informacoes h3 {
+.cartao-pokemon .cartao-informacoes h3{
     font-size: 20px;
     margin-bottom: 15px;
     border-bottom: 1px solid #6B727A;
 }
 
-.cartao-pokemon .cartao-informacoes .status,
-.cartao-pokemon .cartao-informacoes .habilidades {
+.cartao-pokemon .cartao-informacoes .status, .cartao-pokemon .cartao-informacoes .habilidades{
     padding: 0 10px;
     width: 180px;
 }
 
-.cartao-pokemon .cartao-informacoes .habilidades ul li,
-.cartao-pokemon .cartao-informacoes .status ul li {
+.cartao-pokemon .cartao-informacoes .habilidades ul li, .cartao-pokemon .cartao-informacoes .status ul li{
     border-bottom: 1px solid #C3C4C5;
     padding: 0 0 5px;
     margin-bottom: 5px;
     font-size: 15px;
 }
 
-.cartao-pokemon.aberto {
+.cartao-pokemon.aberto{
     display: block;
 }
 
-.tipo-normal {
+.tipo-normal{
     background-color: #C6C6A7;
 }
 
-.tipo-lutador {
+.tipo-lutador{
     background-color: #7D1F1A;
 }
 
-.tipo-veneno {
+.tipo-veneno{
     background-color: #C183C1;
 }
 
-.tipo-terra {
+.tipo-terra{
     background-color: #E0C068;
 }
 
-.tipo-pedra {
+.tipo-pedra{
     background-color: #D1C17D;
 }
 
-.tipo-inseto {
+.tipo-inseto{
     background-color: #C6D16E;
 }
 
-.tipo-fantasma {
+.tipo-fantasma{
     background-color: #BA68C8;
 }
 
-.tipo-fogo {
+.tipo-fogo{
     background-color: #ED8A8B;
 }
 
-.tipo-agua {
+.tipo-agua{
     background-color: #76BEFE;
 }
 
-.tipo-grama {
+.tipo-grama{
     background-color: #49D0B0;
 }
 
-.tipo-eletrico {
+.tipo-eletrico{
     background-color: #FCC719;
 }
 
-.tipo-psiquico {
+.tipo-psiquico{
     background-color: #FA92B2;
 }
 
-.tipo-gelo {
+.tipo-gelo{
     background-color: #BCE6E6;
 }
 
-.tipo-dragao {
+.tipo-dragao{
     background-color: #C29791;
 }
